@@ -1,0 +1,10 @@
+pandas
+numpy
+seaborn
+matplotlib.pyplot
+zipfile
+from google.colab import files
+warnings
+from sklearn.preprocessing import StandardScaler
+from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.ensemble import RandomForestRegressor
